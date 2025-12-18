@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Bookhive</string>
+    <string name="title_activity_login_view">LoginView</string>
+    <string name="title_activity_splash_sc_view">SplashScView</string>
+    <string name="title_activity_regsiter_view">RegsiterView</string>
+    <string name="title_activity_dashboard_view">DashboardView</string>
+    <string name="title_activity_main_layout">MainLayout</string>
+    <string name="title_activity_screens">Screens</string>
+    <string name="title_activity_book_forms">BookForms</string>
+    <string name="title_activity_dashboard">DashboardActivity</string>
+    <string name="title_activity_dashboard_screen">DashboardScreen</string>
+    <string name="title_activity_reading_log_screen">ReadingLogScreen</string>
+    <string name="title_activity_books_library_screen">BooksLibraryScreen</string>
+    <string name="title_activity_profile_screen">ProfileScreen</string>
+    <string name="title_activity_forget_password_view">ForgetPasswordView</string>
+</resources>
